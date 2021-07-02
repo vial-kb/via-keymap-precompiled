@@ -105598,6 +105598,27 @@
       "productId": "0x4e4c",
       "vendorId": "0x8968"
     },
+    "2305314381": {
+      "layouts": {
+        "keymap": [
+          [
+            {
+              "h": 2,
+              "w": 2
+            },
+            "0,0"
+          ]
+        ]
+      },
+      "lighting": "qmk_rgblight",
+      "matrix": {
+        "cols": 1,
+        "rows": 1
+      },
+      "name": "NK1",
+      "productId": "0x4E4D",
+      "vendorId": "0x8968"
+    },
     "2305315638": {
       "layouts": {
         "keymap": [
