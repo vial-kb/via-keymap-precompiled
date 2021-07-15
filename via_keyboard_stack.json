@@ -35759,6 +35759,29 @@
       "productId": "0x0003",
       "vendorId": "0x4b4b"
     },
+    "1263290178": {
+      "layouts": {
+        "keymap": [
+          [
+            "0,0",
+            "0,1",
+            {
+              "x": 2
+            },
+            "0,2",
+            "0,3"
+          ]
+        ]
+      },
+      "lighting": "none",
+      "matrix": {
+        "cols": 4,
+        "rows": 1
+      },
+      "name": "ianklug grooveboard",
+      "productId": "0x4742",
+      "vendorId": "0x4B4C"
+    },
     "1263354179": {
       "layouts": {
         "keymap": [
