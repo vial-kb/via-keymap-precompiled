@@ -49973,7 +49973,7 @@
           ]
         ]
       },
-      "lighting": "none",
+      "lighting": "qmk_rgblight",
       "matrix": {
         "cols": 10,
         "rows": 7
@@ -64793,6 +64793,30 @@
       "name": "Efreet",
       "productId": "0x0001",
       "vendorId": "0x534F"
+    },
+    "1397753639": {
+      "layouts": {
+        "keymap": [
+          [
+            "0,0",
+            "0,1",
+            "0,2"
+          ],
+          [
+            "1,0",
+            "1,1",
+            "1,2"
+          ]
+        ]
+      },
+      "lighting": "qmk_rgblight",
+      "matrix": {
+        "cols": 3,
+        "rows": 2
+      },
+      "name": "Satxri6key",
+      "productId": "0x0727",
+      "vendorId": "0x5350"
     },
     "1397838936": {
       "layouts": {
